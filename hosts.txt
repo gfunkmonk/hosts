@@ -1,5 +1,13 @@
 #kik
 0.0.0.0 mixpanelproxy.kik.com
+0.0.0.0 api.mixpanel.com
+
+#twitchads 
+0.0.0.0 api.mixpanel.com
+0.0.0.0 spade.twitch.tv
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 mixtraffic.com
 
 # YouTube
 0.0.0.0 clients6.google.com
