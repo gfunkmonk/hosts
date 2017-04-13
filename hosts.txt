@@ -119,6 +119,11 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 r6---sn-vgqsrn76.c.2mdn.net
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 clients6.google.com
+0.0.0.0 yt.moatads.com
+0.0.0.0 www.googleadservices.com
 
 #Spotify Original list
 0.0.0.0 media-match.com
@@ -220,9 +225,3 @@
 0.0.0.0 a.ads2.msads.net
 0.0.0.0 b.ads2.msads.net
 0.0.0.0 ac3.msn.com
-
-#trackers
-https://blocklist.kowabit.de/list.txt
-http://v.firebog.net/hosts/Airelle-trc.txtL
-http://v.firebog.net/hosts/static/SamsungSmart.txt
-http://v.firebog.net/hosts/Easyprivacy.txt
