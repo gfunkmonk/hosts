@@ -379,3 +379,33 @@
 0.0.0.0 ws028.coinhive.com
 0.0.0.0 ws032.coinhive.com
 0.0.0.0 crypto-loot.com
+
+# Counter - Tracker
+0.0.0.0 tracking.aatkit.com
+0.0.0.0 reporting.aatkit.com
+0.0.0.0 rules3.aatkit.com
+0.0.0.0 graph.accountkit.com
+0.0.0.0 app.adjust.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 app-measurement.com
+0.0.0.0 api.appodealx.com
+0.0.0.0 hmma.baidu.com
+0.0.0.0 counter.blitzortung.org
+0.0.0.0 e.crashlytics.com
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 reports.crashlytics.com
+0.0.0.0 account.cyanogenmod.org
+0.0.0.0 stats.cyanogenmod.org
+0.0.0.0 ads.exosrv.com
+0.0.0.0 static.exosrv.com
+0.0.0.0 syndication.exosrv.com
+0.0.0.0 scripts.ioam.de
+0.0.0.0 likemore-go.imgsmail.ru
+0.0.0.0 www.pizzaandads.com
+0.0.0.0 mobile.theadex.com
+0.0.0.0 q.trafficfabrik.com
+0.0.0.0 deliver.trafficfabrik.com
+0.0.0.0 cdas-01.trafficfabrik.com
+0.0.0.0 go2.traffic-love.net
+0.0.0.0 cdn.wbtrk.net
+0.0.0.0 geid.wbtrk.net
