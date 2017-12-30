@@ -416,3 +416,11 @@
 0.0.0.0 giga.logs.roku.com
 0.0.0.0 cooper.logs.roku.com
 0.0.0.0 cloudservices.roku.com
+0.0.0.0 captive.roku.com
+
+0.0.0.0 usgs.gov
+0.0.0.0 nccih.nih.gov
+0.0.0.0 anvhls-jite.cdn.anvato.net
+0.0.0.0 nat.emule.org.cn
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 us.info.lgsmartad.com
