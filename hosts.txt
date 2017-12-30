@@ -409,3 +409,9 @@
 0.0.0.0 go2.traffic-love.net
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 geid.wbtrk.net
+
+#Roku
+0.0.0.0 tyler.logs.roku.com
+0.0.0.0 giga.logs.roku.com
+0.0.0.0 cooper.logs.roku.com
+0.0.0.0 cloudservices.roku.com
