@@ -132,6 +132,12 @@
 0.0.0.0 r20.sn-vgqs7ne7.googlevideo.com
 0.0.0.0 r4---sn-vgqs7nez.googlevideo.com
 0.0.0.0 r4.sn-vgqs7nez.googlevideo.com
+0.0.0.0 r1—sn-q4fl6ney.googlevideo.com
+0.0.0.0 r5—sn-q4flrnee.googlevideo.com
+0.0.0.0 r5—sn-q4flrn7r.googlevideo.com
+0.0.0.0 r3—sn-q4fl6nlz.googlevideo.com
+0.0.0.0 r5—sn-q4flrner.googlevideo.com
+0.0.0.0 r5—sn-q4flrn7r.googlevideo.com
 
 #Spotify Original list
 0.0.0.0 media-match.com
@@ -424,3 +430,47 @@
 0.0.0.0 nat.emule.org.cn
 0.0.0.0 us.ad.lgsmartad.com
 0.0.0.0 us.info.lgsmartad.com
+
+#snapchat
+0.0.0.0 ase.adserver.snapads.com
+0.0.0.0 euw.adserver.snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 use.adserver.snapads.com
+
+## Pandora
+0.0.0.0 audio-dc6-t2-2-v4v6.pandora.com
+0.0.0.0 audio-ch1-t1-2-v4v6.pandora.com
+0.0.0.0 audio-dc6-t1-1-v4v6.pandora.com
+0.0.0.0 audio-dc6-t2-1-v4v6.pandora.com
+0.0.0.0 audio-sv5-t2-2-v4v6.pandora.com
+0.0.0.0 audio-sv5-t1-2-v4v6.pandora.com
+0.0.0.0 audio-sv5-t2-1-v4v6.pandora.com
+0.0.0.0 audio-ch1-t2-1-v4v6.pandora.com
+0.0.0.0 audio-dc6-t1-2-v4v6.pandora.com
+0.0.0.0 audio-ch1-t3-2-v4v6.pandora.com
+0.0.0.0 audio-sv5-t3-2-v4v6.pandora.com
+0.0.0.0 audio-ch1-t2-2-v4v6.pandora.com
+0.0.0.0 audio-ch1-t1-1-v4v6.pandora.com
+0.0.0.0 cont-1.p-cdn.us
+0.0.0.0 cont-3.p-cdn.us
+0.0.0.0 cont-2.p-cdn.us
+0.0.0.0 cont-4.p-cdn.us
+0.0.0.0 cont-5.p-cdn.us
+0.0.0.0 t1-1.p-cdn.us
+0.0.0.0 t2-1.p-cdn.us
+0.0.0.0 t2-5.p-cdn.us
+0.0.0.0 t1-3.p-cdn.us
+0.0.0.0 t2-2.p-cdn.us
+0.0.0.0 t2-4.p-cdn.us
+0.0.0.0 t1-2.p-cdn.us
+0.0.0.0 t2-3.p-cdn.us
+0.0.0.0 t1-4.p-cdn.us
+0.0.0.0 t1-5.p-cdn.us
+0.0.0.0 t3-3.p-cdn.us
+0.0.0.0 t3-1.p-cdn.us
+0.0.0.0 t3-2.p-cdn.us
+0.0.0.0 t3-4.p-cdn.us
+0.0.0.0 ad.pandora.tv
+0.0.0.0 ads.pandora.tv.net
+0.0.0.0 stats.pandora.com
+0.0.0.0 adserver.pandora.com
