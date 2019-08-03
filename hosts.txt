@@ -144,7 +144,7 @@ paolo.logs.roku.com
 sugarland.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com 
-
+logs.roku.com
 scribe.logs.roku.com
 liberty.logs.roku.com
 
