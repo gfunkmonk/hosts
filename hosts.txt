@@ -100,7 +100,7 @@ adsassets.waze.com
 wsp.mgid.com
 s0.2mdn.net
 
-Xiaomi
+#Xiaomi
 api.ad.xiaomi.com 
 api.admob.xiaomi.com 
 api.d.xiaomi.com 
@@ -154,6 +154,7 @@ euw.adserver.snapads.com
 usc.adserver.snapads.com
 use.adserver.snapads.com
 app-analytics.snapchat.com
+analytics.snapchat.com 
 
 #last.FM
 newrelic.com
