@@ -1,3 +1,8 @@
+##wtf, mate? 
+einstein.census.shodan.io
+direct.shodan.io
+daniela.onyphe.io
+
 #kik
 mixpanelproxy.kik.com
 api.mixpanel.com
